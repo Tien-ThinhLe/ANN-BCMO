@@ -3,6 +3,6 @@ We contribute here a Matlab function for predicting the ultimate load of rectang
 
 Contributors: Tien-Thinh Le, Hai-Bang Ly, Thuy-Anh Nguyen, Panagiotis G. Asteris, Binh Thai Pham
 
-Reference: Tien-Thinh Le, Hai-Bang Ly, Thuy-Anh Nguyen, Panagiotis G. Asteris, Binh Thai Pham, A Novel Surrogate Model to the Prediction of Ultimate Axial Load of Rectangular Concrete-filled Steel Tubes, submitted to Engineering with Computers, 2020
+Reference: Tien-Thinh Le, Hai-Bang Ly, Thuy-Anh Nguyen, Panagiotis G. Asteris, Binh Thai Pham, A Novel Surrogate Model to the Prediction of Ultimate Axial Load of Rectangular Concrete-filled Steel Tubes, submitted, 2020
 
 Email: letienthinh@duytan.edu.vn; tienthinhle.vn@gmail.com
